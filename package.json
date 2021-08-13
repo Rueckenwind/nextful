@@ -51,7 +51,7 @@
     "html-minifier": "4.0.0",
     "html-react-parser": "0.10.0",
     "htmlhint": "0.11.0",
-    "next": "9.5.2",
+    "next": "11.1.0",
     "normalize.css": "8.0.1",
     "postcss-calc": "7.0.3",
     "postcss-custom-media": "7.0.8",
